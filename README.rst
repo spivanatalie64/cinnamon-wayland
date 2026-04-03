@@ -1,3 +1,14 @@
+⚠️ **PROJECT ABANDONED** ⚠️
+============================
+
+This project is no longer maintained. Cinnamon Wayland support has been abandoned in favor of the X11-based `xlibre` desktop environment.
+
+See `DEPRECATION.md` for detailed technical rationale.
+
+
+About Cinnamon
+==============
+
 Cinnamon is a Linux desktop that provides advanced innovative features and a traditional user experience.
 
 The desktop layout is similar to GNOME 2 with underlying technology forked from the GNOME Shell.
